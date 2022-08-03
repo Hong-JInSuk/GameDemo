@@ -1,0 +1,15 @@
+번호,왼쪽문제,보기1,오른쪽문제,보기2,정답
+1,Apple/Pear/Orange/Melon,Up,,,3
+2,Apple/Pear/Orange/Melon,Down,,,4
+3,Apple/Pear/Orange/Melon,No Down and,Apple/Pear/Orange/Melon,Up,1
+4,Apple/Pear/Orange/Melon,No Down and,Apple/Pear/Orange/Melon,Down,2
+5,Apple/Pear/Orange/Melon,Up and,Apple/Pear/Orange/Melon,No up,3
+6,Apple/Pear/Orange/Melon,Up and,Apple/Pear/Orange/Melon,No Down,3
+7,Apple/Pear/Orange/Melon,No Up and,Apple/Pear/Orange/Melon,Up,1
+8,Apple/Pear/Orange/Melon,No Up and,Apple/Pear/Orange/Melon,Down,2
+9,Apple/Pear/Orange/Melon,Down and,Apple/Pear/Orange/Melon,No uUp,4
+10,Apple/Pear/Orange/Melon,Down and,Apple/Pear/Orange/Melon,No Down,4
+11,Apple/Pear/Orange/Melon,Down and,Apple/Pear/Orange/Melon,Up,4/1
+12,Apple/Pear/Orange/Melon,Down and,Apple/Pear/Orange/Melon,Down,4/2
+13,Apple/Pear/Orange/Melon,Up and,Apple/Pear/Orange/Melon,Up,3/1
+14,Apple/Pear/Orange/Melon,Up and,Apple/Pear/Orange/Melon,Down,3/2
